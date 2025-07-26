@@ -5,7 +5,7 @@ The resulting higher quality images can serve as references to enable an underwa
 
 For certain types of images, this heuristic method may introduce minor color artifacts due to its rule based nature. However, these artifacts can be corrected by fine tuning the parameters provided in the implementation.
 
-#behind this code:
+##behind this code:
 
 In order to train a neural network to enhance unerwater images (UNET based architecture for instance), a labeled dataset containing input images along with their corresponding reference images is required. 
 Such a supervised design can output good results if the spatial resolution of the images are preseved and the architecture is well designed.
