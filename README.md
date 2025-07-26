@@ -1,7 +1,7 @@
 # Awesome Heuristic Method for Underwater Image Enhancement
 
-This repository contain my implementation of a custom heuristic method that I developed to further enhance previously enhanced underwater images, with targeted improvements in contrast, luminance, and color vibrancy. 
-The resulting higher quality images can serve as references to enable an underwater image enhancement neural networks to be trained on data with improved visual fidelity.
+This repository contain my implementation of a custom heuristic method that I developed to further enhance previously enhanced underwater images, with improvements in contrast, luminance, and color vibrancy. 
+The resulting higher quality images can serve as references for training underwater image enhancement models on data with improved visual quality.
 
 For certain types of images, this heuristic method may introduce minor color artifacts due to its rule based nature. However, these artifacts can be corrected by fine tuning the parameters provided in the implementation.
 
